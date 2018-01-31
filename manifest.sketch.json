@@ -1,0 +1,17 @@
+{
+  "compatibleVersion": 1,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "react-sketchapp: Example",
+      "identifier": "main",
+      "script": "./src/index.sketch.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "main"
+    ]
+  }
+}
