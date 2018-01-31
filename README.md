@@ -1,7 +1,8 @@
 # react-primitives-app
 Example app of a cross-platform react app powered by react-primitives
 
-![Example of cross-platform development with react](https://media.giphy.com/media/3o7WIATolBTJDaibbW/giphy.gif)
+[![Example of cross-platform development with react](https://media.giphy.com/media/3o7WIATolBTJDaibbW/giphy.gif)
+Watch high-quality](https://media.giphy.com/media/3o7WIATolBTJDaibbW/giphy-hd.mp4)
 
 I started with a sample react-native app by running `exp init`. 
 Then added some code from the project generated with `create-react-app`. 
