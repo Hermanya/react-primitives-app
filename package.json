@@ -2,6 +2,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
+    "build": "react-scripts build",
     "native": "exp start",
     "web": "react-scripts start",
     "sketch": "skpm-build --watch --run"
