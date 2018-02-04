@@ -8,9 +8,9 @@
     "sketch": "skpm-build --watch --run"
   },
   "dependencies": {
-    "@skpm/builder": "^0.2.0",
-    "expo": "^24.0.0",
-    "react": "16.0.0",
+    "@skpm/builder": "^0.3.3",
+    "expo": "^25.0.0",
+    "react": "16.2.0",
     "react-dom": "^16.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
     "react-native-web": "^0.3.2",
