@@ -1,6 +1,6 @@
-# react-primitives-app [![Build Status](https://travis-ci.org/Hermanya/react-primitives-app.svg?branch=master)](https://travis-ci.org/Hermanya/react-primitives-app)
+# react-primitives-app 
+[![Build Status](https://travis-ci.org/Hermanya/react-primitives-app.svg?branch=master)](https://travis-ci.org/Hermanya/react-primitives-app) [![Greenkeeper badge](https://badges.greenkeeper.io/Hermanya/react-primitives-app.svg)](https://greenkeeper.io/)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Hermanya/react-primitives-app.svg)](https://greenkeeper.io/)
 Example app of a cross-platform react app powered by react-primitives
 
 [![Example of cross-platform development with react](https://media.giphy.com/media/3o7WIATolBTJDaibbW/giphy.gif)
