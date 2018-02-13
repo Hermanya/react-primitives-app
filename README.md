@@ -1,5 +1,6 @@
 # react-primitives-app 
 [![Build Status](https://travis-ci.org/Hermanya/react-primitives-app.svg?branch=master)](https://travis-ci.org/Hermanya/react-primitives-app) [![Greenkeeper badge](https://badges.greenkeeper.io/Hermanya/react-primitives-app.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHermanya%2Freact-primitives-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHermanya%2Freact-primitives-app?ref=badge_shield)
 
 Example app of a cross-platform react app powered by react-primitives
 
@@ -19,3 +20,7 @@ Run `yarn` to install dependencies.
 
 Things to note about sketch, before running `yarn sketch`, you need to open a new project in sketch.
 And if you get `TypeError: {} is not a function. (In '{}("")', '{}' is an instance of Object)`, do `rm -rf node_modules; yarn`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHermanya%2Freact-primitives-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHermanya%2Freact-primitives-app?ref=badge_large)
