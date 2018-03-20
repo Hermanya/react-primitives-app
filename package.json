@@ -8,7 +8,7 @@
     "sketch": "skpm-build --watch --run"
   },
   "dependencies": {
-    "@skpm/builder": "^0.3.3",
+    "@skpm/builder": "^0.4.0",
     "expo": "^25.0.0",
     "react": "16.2.0",
     "react-dom": "^16.2.0",
