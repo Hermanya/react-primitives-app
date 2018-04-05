@@ -5,7 +5,8 @@
     "build": "react-scripts build",
     "native": "exp start",
     "web": "react-scripts start",
-    "sketch": "skpm-build --watch --run"
+    "sketch": "skpm-build --watch --run",
+    "test": "echo \"Info: no test specified\""
   },
   "dependencies": {
     "@skpm/builder": "^0.4.0",
