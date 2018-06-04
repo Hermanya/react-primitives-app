@@ -14,7 +14,7 @@
     "react": "16.4.0",
     "react-dom": "^16.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
-    "react-native-web": "^0.7.0",
+    "react-native-web": "^0.8.0",
     "react-primitives": "^0.5.0",
     "react-scripts": "1.1.2",
     "react-sketchapp": "^2.0.0",
