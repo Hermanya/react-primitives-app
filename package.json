@@ -12,14 +12,14 @@
     "@skpm/builder": "0.5.8",
     "exp": "^55.0.1",
     "expo": "^28.0.0",
-    "react": "16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "16.4.2",
+    "react-dom": "^16.4.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
     "react-native-web": "^0.8.0",
     "react-primitives": "^0.6.0",
     "react-scripts": "1.1.2",
     "react-sketchapp": "^2.0.0",
-    "react-test-renderer": "^16.4.1"
+    "react-test-renderer": "^16.4.2"
   },
   "skpm": {
     "main": "basic-setup.sketchplugin",
