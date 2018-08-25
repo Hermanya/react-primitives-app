@@ -9,8 +9,8 @@
     "test": "echo \"Info: no test specified\""
   },
   "dependencies": {
+    "exp": "^56.0.0",
     "@skpm/builder": "0.5.9",
-    "exp": "^55.0.1",
     "expo": "^28.0.0",
     "react": "16.4.2",
     "react-dom": "^16.4.2",
