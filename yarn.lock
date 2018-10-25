@@ -1184,14 +1184,14 @@
     "@babel/preset-env" "^7.0.0"
     "@babel/preset-react" "^7.0.0"
 
-"@skpm/builder@0.5.10":
-  version "0.5.10"
-  resolved "https://registry.yarnpkg.com/@skpm/builder/-/builder-0.5.10.tgz#906d2ee1ed948aeaffbad43927a9a7eb4b55577d"
+"@skpm/builder@0.5.11":
+  version "0.5.11"
+  resolved "https://registry.yarnpkg.com/@skpm/builder/-/builder-0.5.11.tgz#a6d2e31b6d934fcd886ea3fb975ca920a7ba42c1"
   dependencies:
     "@babel/core" "^7.0.1"
     "@skpm/babel-preset" "0.2.1"
     "@skpm/file-loader" "^2.0.1"
-    "@skpm/internal-utils" "^0.1.10"
+    "@skpm/internal-utils" "^0.1.11"
     "@skpm/nib-loader" "^0.1.1"
     "@skpm/timers" "^0.1.0"
     babel-loader "^8.0.2"
@@ -1217,9 +1217,9 @@
     loader-utils "^1.0.2"
     schema-utils "^0.4.5"
 
-"@skpm/internal-utils@^0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@skpm/internal-utils/-/internal-utils-0.1.10.tgz#76e27d87fbc173e2c336456a2608f30ee2b6c78d"
+"@skpm/internal-utils@^0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@skpm/internal-utils/-/internal-utils-0.1.11.tgz#d3c9de9c075961f60fd18f963bb85a199c55ef3f"
   dependencies:
     chalk "^2.4.1"
     js-yaml "^3.10.0"
