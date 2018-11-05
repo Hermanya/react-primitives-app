@@ -1746,7 +1746,7 @@ arrify@^1.0.0, arrify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
 
-art@^0.10.0, art@^0.10.1:
+art@^0.10.0:
   version "0.10.2"
   resolved "https://registry.yarnpkg.com/art/-/art-0.10.2.tgz#55c3738d82a3a07e0623943f070ebe86297253d9"
 
@@ -9099,17 +9099,6 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-art@^16.4.0:
-  version "16.5.1"
-  resolved "https://registry.yarnpkg.com/react-art/-/react-art-16.5.1.tgz#534a265dafc5c0e310da9ef9afbf76d6e221be56"
-  dependencies:
-    art "^0.10.1"
-    create-react-class "^15.6.2"
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.2"
-    schedule "^0.4.0"
-
 react-clone-referenced-element@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-clone-referenced-element/-/react-clone-referenced-element-1.0.1.tgz#2bba8c69404c5e4a944398600bcc4c941f860682"
@@ -9214,21 +9203,6 @@ react-native-vector-icons@4.5.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-web@^0.8.3:
-  version "0.8.10"
-  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.8.10.tgz#2a913656a006230848eb432248de7fb8ce488c6d"
-  dependencies:
-    array-find-index "^1.0.2"
-    create-react-class "^15.6.2"
-    debounce "^1.1.0"
-    deep-assign "^2.0.0"
-    fbjs "^0.8.16"
-    hyphenate-style-name "^1.0.2"
-    inline-style-prefixer "^4.0.2"
-    normalize-css-color "^1.0.2"
-    prop-types "^15.6.0"
-    react-timer-mixin "^0.13.3"
-
 react-native-web@^0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.9.0.tgz#293bcc109165b62e2f8f1796208b0b8f8eb8751f"
@@ -9308,9 +9282,9 @@ react-native-web@^0.9.0:
     xmldoc "^0.4.0"
     yargs "^9.0.0"
 
-react-primitives@^0.6.0:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/react-primitives/-/react-primitives-0.6.1.tgz#7ea4082a7831cbaf928a12058f7950d228dbcdec"
+react-primitives@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/react-primitives/-/react-primitives-0.7.0.tgz#ccd83c7aa374c66bb1dc4982b423403c59a33805"
   dependencies:
     animated "^0.2.2"
     asap "^2.0.5"
@@ -9320,8 +9294,6 @@ react-primitives@^0.6.0:
     invariant "^2.2.1"
     normalize-css-color "^1.0.1"
     prop-types "^15.5.10"
-    react-art "^16.4.0"
-    react-native-web "^0.8.3"
     react-timer-mixin "^0.13.3"
     string-hash "^1.1.3"
 
