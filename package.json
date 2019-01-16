@@ -11,7 +11,7 @@
   "dependencies": {
     "exp": "^57.0.1",
     "@skpm/builder": "0.5.11",
-    "expo": "^31.0.0",
+    "expo": "^32.0.0",
     "react": "16.5.2",
     "react-dom": "^16.5.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
