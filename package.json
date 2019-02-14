@@ -13,7 +13,7 @@
     "@skpm/builder": "0.5.12",
     "expo": "^31.0.0",
     "react": "16.8.2",
-    "react-dom": "^16.6.1",
+    "react-dom": "^16.8.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
     "react-native-web": "^0.9.0",
     "react-primitives": "^0.7.0",
