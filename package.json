@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "exp": "^57.0.1",
-    "@skpm/builder": "0.5.12",
+    "@skpm/builder": "0.5.16",
     "expo": "^31.0.0",
     "react": "16.8.2",
     "react-dom": "^16.8.2",
