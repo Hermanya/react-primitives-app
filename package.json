@@ -19,7 +19,7 @@
     "react-primitives": "^0.7.0",
     "react-scripts": "2.1.2",
     "react-sketchapp": "^2.0.0",
-    "react-test-renderer": "^16.8.3"
+    "react-test-renderer": "^16.10.1"
   },
   "skpm": {
     "main": "basic-setup.sketchplugin",
