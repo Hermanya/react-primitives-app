@@ -18,7 +18,7 @@
     "react-native-web": "^0.10.1",
     "react-primitives": "^0.7.0",
     "react-scripts": "2.1.2",
-    "react-sketchapp": "^2.0.0",
+    "react-sketchapp": "^3.0.5",
     "react-test-renderer": "^16.8.3"
   },
   "skpm": {
